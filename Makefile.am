@@ -158,6 +158,8 @@ libeasyrpg_player_a_SOURCES = \
 	src/game_interpreter_battle.h \
 	src/game_interpreter_control_variables.cpp \
 	src/game_interpreter_control_variables.h \
+	src/game_interpreter_debug.cpp \
+	src/game_interpreter_debug.h \
 	src/game_interpreter_map.cpp \
 	src/game_interpreter_map.h \
 	src/game_interpreter_shared.cpp \
@@ -192,6 +194,7 @@ libeasyrpg_player_a_SOURCES = \
 	src/game_vehicle.h \
 	src/game_windows.cpp \
 	src/game_windows.h \
+	src/generated/bitmapfont_baekmuk.h \
 	src/generated/bitmapfont_rmg2000.h \
 	src/generated/bitmapfont_ttyp0.h \
 	src/generated/bitmapfont_wqy.h \
